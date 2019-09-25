@@ -1,3 +1,3 @@
 <?php
-echo 'push';
+echo 'push_edit';
 ?>
