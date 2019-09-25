@@ -1,3 +1,3 @@
 <?php
-echo 'file tambahan a';
+echo 'file tambahan a a';
 ?>
